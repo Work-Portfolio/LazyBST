@@ -1,0 +1,6 @@
+FEEDBACK:
+
+Excellent garbage collection of your LazySearchTree class!
+
+-Bita.
+

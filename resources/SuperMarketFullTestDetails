@@ -1,0 +1,65 @@
+add soup            * adding only to left
+add milk
+add apples
+add apples         * Testing adding multiples
+add apples
+add apples
+add apples
+add bread
+buy apples
+buy apples
+buy apples
+buy soup        * Testing HARD removing the "mRoot" of the tree (Should be reassigned to milk)
+buy bread
+add peppers      * Testing adding to only right
+add yogurt
+add potatoes
+buy apples
+buy milk
+buy apples
+buy peppers     * Testing removing all elements left of the root, then HARD removing root to make sure it is reassigned
+buy potatoes
+buy yogurt      * List now empty
+buy beans       * Testing remove from empty tree
+buy apples       * Testing removing from empty tree
+add fish         * Begin testing lines for removal and then addition with soft deletion
+buy fish
+buy fish         * Testing remove from empty soft tree
+add fish         * Testing adding after soft deletion
+buy fish
+add pie           * Testing should be first and last
+add apple           * Testing to take over 1st (root)
+add waxPaper        * Testing new last
+add zucchini        * Testing new last by insert
+add ale             * Testing new first
+add cake
+add fish
+add chicken
+add cereal
+buy zucchini        * Testing new last by soft removal
+add cookies
+buy onion
+buy pie
+buy cookies
+buy ale             * Testing new first by soft removal
+add apples
+add basil           ** Rest of test taken from inventory_log.txt **
+add juice
+add juice
+add bread
+add meat
+add eggplant
+add bread
+add tomato
+buy meat
+add soup
+add spaghetti
+add linguine
+add onion
+add cereal
+add milk
+buy milk
+buy bread
+buy juice
+buy pie
+buy chicken
