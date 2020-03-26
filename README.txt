@@ -1,7 +1,8 @@
-Zach Rooney
-CS 1C
+LazyBST Project
 
-rooneyz-project04
+This project was to create a Binary Search Tree for generic items that implemented lazy deletion. It was tested with a
+simulated grocery store inventory. The main file is LazySearchTree.java
+
 
 
 Brief description of submitted files:
